@@ -1,0 +1,16 @@
+__pycache__/
+**/.git-local-backup/
+*.py[cod]
+*.pyo
+*.pyd
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.vscode/
+
+export/
+output/
+report/
+experiments/
